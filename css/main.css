@@ -242,7 +242,7 @@ textarea {
       display: flex;
       justify-content: center;
       flex-flow: row wrap; 
-      background-image: url('../assets/jake-melara-30679-unsplash.jpg');
+      background-image: url('../assets/jake-melara-30679-unsplash.jpg') #333;
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
