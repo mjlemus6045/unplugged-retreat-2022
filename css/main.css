@@ -242,7 +242,7 @@ textarea {
       display: flex;
       justify-content: center;
       flex-flow: row wrap; 
-      background-image: url('../assets/jake-melara-30679-unsplash.jpg') #333;
+      background-image: url('../img/jake-melara-30679-unsplash.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -333,7 +333,6 @@ textarea {
    .team-review {
     display: flex;
     justify-content: left;
-    align-items: left;
     flex-flow: row wrap;
    }
    .reviews h2 {
